@@ -38,7 +38,7 @@ GitHub Desktop Installation Guide & Usage
    - Click 'History' to see the list of previous commits and their details.
 
 
-SOME BASICS YOU SHOULD REMEMBER:
+SOME BASICS TERMINOLGIES EXPLAINED:
 
 1. Cloning: Downloading a copy of a repo from GitHub to your computer.
 
