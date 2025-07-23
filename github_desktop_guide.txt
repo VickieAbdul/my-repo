@@ -14,22 +14,22 @@ GitHub Desktop Installation Guide & Usage
    - Select a repository to clone or enter the URL of the repository.
    - Click 'Clone' to download the repository to your computer.
 
-4. Making Changes:
+4. Fetching & Pulling Changes:
+   - Click 'Fetch origin' to check for updates made by others.
+   - Click 'Pull origin' to download and apply updates to your local repository.
+
+5. Making Changes:
    - Open the cloned repository in GitHub Desktop.
    - Edit files as needed on your computer.
    - Save changes.
 
-5. Committing Changes:
+6. Committing Changes:
    - Go to GitHub Desktop.
    - Type a commit message summarizing your changes.
    - Click 'Commit to (branch name)'.
 
-6. Pushing Changes:
+7. Pushing Changes:
    - Click 'Push origin' to upload changes to GitHub.
-
-7. Fetching & Pulling Changes:
-   - Click 'Fetch origin' to check for updates made by others.
-   - Click 'Pull origin' to download and apply updates to your local repository.
 
 8. Creating Pull Requests:
    - If working on a branch, push changes and click 'Create Pull Request' to request a review.
